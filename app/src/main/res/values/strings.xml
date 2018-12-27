@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Футбольное табло </string>
+    <string name="btn_team1">Спартак</string>
+    <string name="btn_team2">Зенит</string>
+    <string name="btn_reset">Сбросить</string>
+    <string name="max_count">Максимальное количество голов не должно превышать 20</string>
+</resources>

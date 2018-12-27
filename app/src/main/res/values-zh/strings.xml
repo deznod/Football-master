@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">足球記分牌 </string>
+    <string name="btn_team1">斯巴達克</string>
+    <string name="btn_team2">頂點</string>
+    <string name="btn_reset">重置分數</string>
+    <string name="max_count">最大目标数不应超过20</string>
+</resources>

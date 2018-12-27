@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football Score </string>
+    <string name="btn_team1">Spartak</string>
+    <string name="btn_team2">Zenith</string>
+    <string name="btn_reset">Reset Score</string>
+    <string name="max_count">The maximum number of goals should not exceed 20</string>
+</resources>
